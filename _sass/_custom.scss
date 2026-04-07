@@ -1,10 +1,18 @@
 /* 
 @import url('https://fonts.googleapis.com/css2?family=Graduate&display=swap');
-
+body {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
 }
 .display-1
-  font-family: "Graduate", serif;
-  font-weight: 400;
-  font-style: normal;
+    font-family:  "Graduate", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 */
