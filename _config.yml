@@ -20,7 +20,7 @@ source-code: https://github.com/Digital-Grinnell/collectionbuilder-csv
 # title of site appears in banner
 title: The Georgia Dentel Project - Interviews
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-CSV is a template, with some Grinnell College features and theme elements, for creating digital collection exhibits using static web technology.  As of August 2025 this template contains elements of both traditional CollectionBuilder-CSV sites and OralHistoryAsData."
