@@ -18,12 +18,14 @@ source-code: https://github.com/Digital-Grinnell/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: The Georgia Dentel Project - Interviews
+title: Georgia Dentel and Grinnell Concerts History, 1960-2001 - Interviews
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template, with some Grinnell College features and theme elements, for creating digital collection exhibits using static web technology.  As of August 2025 this template contains elements of both traditional CollectionBuilder-CSV sites and OralHistoryAsData."
+description: "Georgia Dentel was an enigmatic but influential figure of Grinnell College. During her service at Grinnell College, she heavily influenced and enriched the campus culture and student life. Remarkably, Georgia Dentel booked countless concerts performed by top-notch artists and films in various genres when her budget was limited by the college's financial conditions. However, Georgia was rarely mentioned in archives. Her contributions to the college were rarely documented, and she remained as a mysterious figure.
+
+Therefore, the goal of this oral history project is to honor Georgia Dentel and her dedication to both Grinnell College and its students. In this project, we will provide a biography of Georgia Dentel, a timeline of the events that she booked, and Grinnell alumni's accounts of Georgia and her influences on Grinnell College."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: Grinnell College; Grinnell, Iowa;
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
